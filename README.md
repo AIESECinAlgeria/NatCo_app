@@ -1,6 +1,6 @@
 # NatCo App
 
-![NatCo App Logo](link/to/your/logo.png)
+
 
 **Description:**
 The NatCo App is a mobile application created for the NatCo 23 conference to automate the check-in process. Developed using the MIT App Inventor, this app simplifies the conference check-in experience for attendees.
